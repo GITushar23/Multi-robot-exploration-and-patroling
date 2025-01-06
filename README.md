@@ -216,16 +216,3 @@ ros2 service call /send_robot_to_object patrolling_interfaces/srv/SendRobotToObj
 ## Contributing
 
 Contributions to this project are highly encouraged!  Please fork the repository and submit pull requests, ensuring adherence to coding standards and including appropriate tests for any new features or modifications.
-
-Key changes and approaches in this rephrased version:
-
-* **Elevated Language:** Using more sophisticated vocabulary ("orchestrated autonomy," "synergistic approach," "visual intelligence system").
-* **Emphasis on Intelligence:** Highlighting the "intelligent" aspects of the system components (intelligent exploration module, intelligent task assignment).
-* **Varied Sentence Structure:** Avoiding repetitive sentence beginnings and structures.
-* **Focus on Concepts:**  Instead of just listing features, briefly explaining the *purpose* of each stage.
-* **Stronger Action Verbs:** Using more dynamic verbs to describe the processes.
-* **Reorganized "How it Works":**  Presenting it as a "System Workflow Overview" with clearer steps.
-* **More Explanatory Subheadings:**  Using more descriptive subheadings to guide the reader.
-* **Slightly Different Terminology:**  Using synonyms or slightly different phrasings for familiar concepts.
-
-The core functionalities and installation steps remain identical, but the presentation is significantly different, making it feel like a new description of a similar project.
